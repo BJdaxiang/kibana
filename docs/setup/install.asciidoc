@@ -1,7 +1,6 @@
 [[install]]
 == 安装 Kibana
 
-NOTE: Starting with version 6.0.0, Kibana only supports 64 bit operating systems.
 注意：从 6.0.0 版本开始，Kibana 只支持 64 位的系统。
 
 Kibana 提供以下格式的安装包：
@@ -41,10 +40,10 @@ see {xpack-ref}kibana.html[Using Kibana with X-Pack Security] for additional set
 instructions.
 
 
-include::install/targz.asciidoc[]
+include::targz包安装[]
 
-include::install/deb.asciidoc[]
+include::deb包安装[]
 
-include::install/rpm.asciidoc[]
+include::rpm包安装[]
 
-include::install/windows.asciidoc[]
+include::windows安装[]
