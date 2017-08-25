@@ -28,10 +28,8 @@ Debian包用来在Debian，Ubuntu，和其他基于Debian的系统下安装，De
 
 `docker`::
 
-An image is available for running Kibana as a Docker container. It ships
-with https://www.elastic.co/products/x-pack[X-Pack] pre-installed and is
-available from the Elastic
-Docker registry.
+一个镜像用于在Docker 容器中允许Kibana。
+https://www.elastic.co/products/x-pack[X-Pack] 预安装包附带Kibana Docker镜像，并且可以从Elastic Dockeer 仓库中获得。
 +
 <<docker>>
 
@@ -46,4 +44,4 @@ include::deb包安装[]
 
 include::rpm包安装[]
 
-include::windows安装[]
+include::zip包(windows)安装[]
