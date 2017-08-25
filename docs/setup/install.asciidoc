@@ -8,7 +8,7 @@ Kibana 提供以下格式的安装包：
 [horizontal]
 `tar.gz`/`zip`::
 
-'tar.gz'包用来在Linux和Darwin系统下安装，而且也是开始Kibana最简单的一种选择。
+'tar.gz'包用来在 Linux 和 Darwin 系统下安装，而且也是开始 Kibana 最简单的一种选择。
 +
 ‘zip’包是唯一支持 Windows 系统的安装包。
 +
@@ -16,20 +16,20 @@ Kibana 提供以下格式的安装包：
 
 `deb`::
 
-Debian包用来在Debian，Ubuntu，和其他基于Debian的系统下安装，Debian包可以从Elastic 官网或者我们的 Debian 仓库中下载。
+Debian包用来在 Debian，Ubuntu，和其他基于 Debian 的系统下安装，Debian 包可以从 Elastic 官网或者我们的 Debian 仓库中下载。
 +
 <<deb>>
 
 `rpm`::
 
-'rpm'包用来在Red Hat，Centos，SLES，OpenSuSe以及其他基于RPM的系统下安装。RPM包可以从Elastic官网或者我们的RPM仓库下载。
+'rpm'包用来在 Red Hat，Centos，SLES，OpenSuSe 以及其他基于 RPM 的系统下安装。RPM 包可以从 Elastic 官网或者我们的RPM仓库下载。
 +
 <<rpm>>
 
 `docker`::
 
-一个镜像用于在Docker 容器中允许Kibana。
-https://www.elastic.co/products/x-pack[X-Pack] 预安装包附带Kibana Docker镜像，并且可以从Elastic Dockeer 仓库中获得。
+一个镜像用于在 Docker 容器中允许 Kibana。
+https://www.elastic.co/products/x-pack[X-Pack] 预安装包附带 Kibana Docker 镜像，并且可以从 Elastic Dockeer 仓库中获得。
 +
 <<docker>>
 
