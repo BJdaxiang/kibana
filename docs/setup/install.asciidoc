@@ -12,7 +12,7 @@ Kibana 提供以下格式的安装包：
 +
 ‘zip’包是唯一支持 Windows 系统的安装包。
 +
-<<targz>> or <<windows>>
+<<targz>> 或者 <<windows>>
 
 `deb`::
 
