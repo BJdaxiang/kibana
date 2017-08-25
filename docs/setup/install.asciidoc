@@ -28,7 +28,7 @@ Debian包用来在 Debian，Ubuntu，和其他基于 Debian 的系统下安装�
 
 `docker`::
 
-一个镜像用于在 Docker 容器中允许 Kibana。
+一个镜像用于在 Docker 容器中运行 Kibana。
 https://www.elastic.co/products/x-pack[X-Pack] 预安装包附带 Kibana Docker 镜像，并且可以从 Elastic Dockeer 仓库中获得。
 +
 <<docker>>
