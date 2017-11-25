@@ -15,7 +15,7 @@ time filter is set to the last 15 minutes and the search query is set to match-a
 [[status]]
 === 检查 Kibana 状态
 
-你可以通关  `localhost:5601/status` 来访问 Kibana 的服务器状态页 , 状态也展示了
+你可以通过  `localhost:5601/status` 来访问 Kibana 的服务器状态页 , 状态也展示了
 服务器资源使用信息和已安装插件列表 。
 
 image::images/kibana-status-page.png[]
